@@ -1,3 +1,4 @@
 result = ""; 
-print(This is a second file to push);
+print("This is a second file to push");
+print("Changes for branch 1");
 return result; 
