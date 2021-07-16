@@ -1,2 +1,2 @@
 This is the first file to commit using command line.
-This is from issue2T2
+16th July 3pm FROM branch issue2T2 (NT)
