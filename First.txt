@@ -1,9 +1,7 @@
 This is the first file to commit using command line.
-This is from issue2T2
-This is fix for issue1.
-This is a fix for issue2. 
-This is a fix for issueT2.
-This is for new brach.
 
-// THIS IS A FIX FROM BRANCH ISSUET2 --> 924AM
-16th July 3pm FROM branch issue2T2 (NT)
+=======
+16th July 3pm FROM branch issue2T2. 
+19th July 730pm from branch issue2T2. 
+21st July 7pm from branch issue2T2
+>>>>>>> issue2T2
