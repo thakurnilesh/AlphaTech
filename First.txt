@@ -1,8 +1,4 @@
 This is the first file to commit using command line.
 //This is a fix from 430 July21@721pm
 16th July 3pm FROM branch issue2T2. 
-19th July 730pm from branch issue2T2. 
-21st July 7pm from branch issue2T2
-2nd August
-//CHANGE from VSC 6th Aug 21 
-//Change Reghu Demo
+PASS
